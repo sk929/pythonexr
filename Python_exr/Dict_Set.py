@@ -11,5 +11,7 @@ print(planet_to_initial)
  'Neptune': 'N'}'''
  
  
- #Set No repeated value set1 = {1, 2, 3,5}  num = se
+ #Set No repeated value set1 = {1, 2, 3,5}  num = set()  empty set
  #Dict key Pair value   num = {1:2, 23: 67}
+ 
+ 
